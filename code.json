@@ -1,8 +1,8 @@
 {
   "AdsController": {
     "adNetwork": "admob",
-    "admobBanner": "ca-app-pub-6534643625957585/8021541773",
-    "admobInterstitial": "ca-app-pub-6534643625957585/4684931995",
+    "admobBanner": "ca-app-pub-4831452203306270/7920327784",
+    "admobInterstitial": "ca-app-pub-4831452203306270/6478704869",
     "applovinBanner": "16cb520e5",
     "applovinInterstitial": "16cb520e5",
     "unityGameId": "5120597",
